@@ -31,7 +31,7 @@ This project is an interactive Sales Performance Dashboard built in Power BI to 
 
 ## 📷 Dashboard Preview
 
-![Sales Dashboard](dashboard_screenshot.png)
+dashboard_screenshot.png
 
 ---
 
